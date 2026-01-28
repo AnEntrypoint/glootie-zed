@@ -1,0 +1,32 @@
+{
+  "languages": {
+    "markdown": {
+      "completion": true,
+      "highlights": true,
+      "diagnostics": true
+    },
+    "json": {
+      "completion": true,
+      "validation": true
+    },
+    "javascript": {
+      "completion": true,
+      "formatting": true,
+      "diagnostics": true
+    },
+    "typescript": {
+      "completion": true,
+      "formatting": true,
+      "diagnostics": true
+    },
+    "python": {
+      "completion": true,
+      "diagnostics": true
+    }
+  },
+  "glootieBehavior": {
+    "codeContextLines": 50,
+    "autoContextDetection": true,
+    "semanticSearch": true
+  }
+}

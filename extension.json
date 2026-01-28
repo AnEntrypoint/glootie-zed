@@ -1,0 +1,23 @@
+{
+  "name": "glootie",
+  "version": "2.0.4",
+  "description": "Advanced Claude Code plugin with WFGY integration, MCP tools, and automated hooks",
+  "authors": [
+    {
+      "name": "AnEntrypoint"
+    }
+  ],
+  "repository": "https://github.com/AnEntrypoint/glootie-zed",
+  "themes": [
+    {
+      "name": "Glootie Dark",
+      "appearance": "dark",
+      "path": "./themes/glootie-dark.json"
+    },
+    {
+      "name": "Glootie Light",
+      "appearance": "light",
+      "path": "./themes/glootie-light.json"
+    }
+  ]
+}
